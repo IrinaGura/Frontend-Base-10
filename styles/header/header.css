@@ -1,0 +1,47 @@
+.header {
+	background-color: #353535;
+	height: 714px;
+	width: 100%;
+	padding: 7rem;
+	color: #ffffff;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	align-items: center;
+	text-align: center;
+}
+
+.header_title {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 6rem;
+    border: 5px solid #c6a753;
+	padding: 3rem;
+	text-transform: uppercase;
+}
+
+.header_subtitle {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 2.3rem;
+	margin: 1rem;
+	text-transform: uppercase;
+}
+
+.header_block {
+	margin-top: 8rem;
+}
+
+.header_block_text-1,
+.header_block_text-2, 
+.header_block_text-3, 
+.header_block_text-4 {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.5rem;
+	border-right: 2px solid #ffffff;
+	padding: 0 1rem;
+}
+
+.header_block_text-4 {
+	border-right: none;
+}
+

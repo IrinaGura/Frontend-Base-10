@@ -1,0 +1,25 @@
+.case {
+  width: 100%;
+  display: flex;
+	justify-content: space-around;
+	padding: 1rem; 
+}
+
+.case_block {
+	display: flex;
+	flex-direction: column;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.2rem;
+	align-items: center;
+	text-transform: uppercase;
+}
+
+.case_block_icon {
+	height: 140px;
+	padding: 1.2rem;
+}
+
+p {
+	line-height: 1.5;
+ }
+ 

@@ -1,0 +1,14 @@
+@media screen and (max-width: 576px) {
+  .row {
+    width: 100%;
+    border-left: none;
+  }
+  
+  .row_block-1,
+  .row_block-2,
+  .row_block-3 {
+     margin-bottom: 50px;
+  }
+
+}
+  

@@ -1,0 +1,13 @@
+@media screen and (max-width: 576px) {
+  .case {
+    display: flex;
+		flex-wrap: wrap;
+    justify-content: space-around;
+		}
+		
+		.case_block_icon {
+			height: 100px;
+			padding: 2rem;
+		}
+}
+    

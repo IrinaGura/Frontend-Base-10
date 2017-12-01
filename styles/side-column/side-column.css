@@ -1,0 +1,60 @@
+.side-column {
+	height: 100%;
+	width: 40%;
+	max-width: 1025px;
+	padding: 0 3.8%;
+}
+
+.side-column_block-me {
+	min-height: 22rem;
+	margin-bottom: 100px;
+}
+
+.side-column_block-skills {
+	min-height: 25rem;
+	margin-bottom: 100px;
+}
+
+.side-column_block-languages {
+	height: 15rem;
+	margin-bottom: 50px;
+}
+
+.side-column_block-me_list,
+.side-column_block-skills_list,
+.side-column_block-languages_list {
+	width: 100%;
+	height: auto;
+	padding: 1.5rem 0;
+}
+
+.side-column_block-me_list_item,
+.side-column_block-me_list_description,
+.side-column_block-skills_list_item,
+.side-column_block-languages_list_item,
+.side-column_block-languages_list_description {
+	color:rgb(24, 23, 23);
+	float:left;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.2rem;
+	width: 12rem;
+	padding: 2% 1.2%;
+}
+
+.side-column_block-me_list_item,
+.side-column_block-skills_list_item,
+.side-column_block-languages_list_item {
+	font-weight: 900;
+}
+
+.side-column_block-skills_list_item,
+.side-column_block-languages_list_item {
+	text-transform: uppercase;
+}
+
+.side-column_block-skills_list_description {
+	float:left;
+	font-size: 1.2rem;
+	width: 12rem;
+	padding: 2% 1.2%;
+}

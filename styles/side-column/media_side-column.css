@@ -1,0 +1,14 @@
+@media screen and (max-width: 576px) {
+  .side-column {
+  	width: 100%;
+	}
+
+	.side-column_block-languages {
+		height: 9rem;
+	}
+	.side-column_block-me,
+	.side-column_block-skills,
+	.side-column_block-languages {
+		margin-bottom: 50px;
+	}
+}
